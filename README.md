@@ -4,7 +4,7 @@ Hello! My name is Jihoon Han. I’m an undergraduate studying Data Science at Ky
 I enjoy presenting my work to other people in various ways(presentation, casual talk, etc). Mutual growth through positive feedback is my top priority.
 
 ## 🏆Awards
-2024 경희대학교 Swcon Conference 우수상
+- 2024 경희대학교 Swcon Conference 우수상
 
 ## 🛠 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
