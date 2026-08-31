@@ -22,6 +22,7 @@ I am interested in building practical **AI services**, particularly in **Natural
 - **KHUDA 7기 NLP 트랙** — 머신러닝과 딥러닝의 기초부터 Transformer, LLM, RAG까지 단계적으로 학습하고, 이를 맞춤법 퀴즈와 판례 검색 AI 서비스 개발에 적용했습니다.
 - **경희대학교 SW 멘토** — 응용데이터분석 과목의 회귀·분류·데이터 증강·클러스터링·시계열 분석 관련 자료를 제작하고 수업 운영을 지원했습니다.
 - **데이터 직무부트캠프 – SQL 입문부터 활용까지** — SQL을 활용해 RDB에서 필요한 데이터를 가공·추출하고, 가상의 기업 데이터를 기반으로 대시보드와 분석 보고서를 제작해 비즈니스 인사이트를 도출했습니다.
+- **AI SPARK 부트캠프** — NXT CLOUD가 운영한 AI SPARK 부트캠프에 참여하여 최신 생성형 AI·AWS 노코드 도구·AI 에이전트 활용법을 학습하고, AI 기반 맞춤형 채용 매칭 서비스 MatchLab을 기획·구현했습니다.
 
 ## 🚀 Featured Projects
 
